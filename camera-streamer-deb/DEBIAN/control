@@ -1,7 +1,0 @@
-Package: camera-streamer
-Version: 0.2.8
-Architecture: amd64
-Maintainer: Dein Name <deine@email.com>
-Depends: libcamera, libavcodec, libavformat, libavutil, libssl, libcrypto
-Description: Ein kleiner RTSP/WebRTC-Streaming-Server für Kameras.
-
